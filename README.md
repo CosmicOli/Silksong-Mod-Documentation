@@ -13,3 +13,10 @@ There does exist an [item randomiser](https://thunderstore.io/c/hollow-knight-si
 I wish to not just play silksong with items randomised, but also have a randomiser that is compatible with [Archipelago](https://archipelago.gg). I hence intend to implement an arbitrary item replacer along with a 'logic' system that is compatible with archipelago, all before next Sunday, 22/02/2026, where me and some friends are intending to do an archipelago run together.
 
 Considering that I am in full time education with 2 assignments due this week, I do not have full confidence in my ability to produce this within a week. This is my first time modding a game, although thankfully I do have experience with C# and Unity from prior education and projects. Either way, I'm giving it a shot.
+
+# Log 2
+I have written a [vague initual outline](/Notes/Vague%20Initial%20Outline.md) of the mod interaction structure. It's not good or well researched, but it's a start.
+
+More importantly, I have written a [more fleshed out document](/Mod%20Information/Item%20Replacer.md) with useful information and design principles regarding the Item Replacer. I hesitate to call it a design document due to a lack of specificity and consistency in what I wrote, but it does mostly outline the point of the mod.
+
+I won't lie, I feel like definitely took longer than it needed too, but at the very least I feel somewhat more resolute in how specifically I plan on implementing an item replacer. If I was not so short on time, I would do the same for the rest of the planned mods and then write a comprehensive and specific list of features and functions and how they should interact. I may end up doing so later, but right now I must tidy my room lmao

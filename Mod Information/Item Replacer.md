@@ -1,3 +1,4 @@
+# Important Initial Notes
 All interactable items in silksong need removing and replacing:
 *Non-standard items in their categories have been specified*
 
