@@ -27,3 +27,8 @@ This is less of a progress log (given I haven't done anything as of yet today) a
 In other news, I have made good assignment progress and intend to have both finished by tomorrow evening or Wednesday midday, which will leave the rest of the week open for development. Well somewhat at least; I have received some emails today notifying me of new deadlines this week for society committee obligations, but hopefully those will not be as monolithic and lengthy as the coursework.
 
 I will probably attempt to lay out the foundational structure of the item replacer this evening after some more progress with various important responsibilities. If time permits, I will also attempt to begin reading and modifying scene data on scene loading, as this will serve to handle the vaste majority of item replacement.
+
+# Log 4 16/02/2026 (Well, after midnight now but oh well)
+Didn't really end up doing all that much today, just a bit too busy to commit dedicated time to it. I keep thinking about how I want to keep mine well written and open, but then I remember that ItemChanger.Core and Randomiser.Core exist and that no matter what this will be a poor standard at best in comparison lmao  
+
+I am making this project to play silksong randomised with archipelago, but the itch to formalise the project and add bells and whistles is strong.
